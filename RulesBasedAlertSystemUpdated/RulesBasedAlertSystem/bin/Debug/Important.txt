@@ -1,0 +1,1 @@
+C:\Users\320053826\source\repos\RulesBasedAlertSystem>packages\NUnit.ConsoleRunner.3.10.0\tools\nunit3-console.exe RulesBasedAlertSystem\bin\Debug\RulesBasedAlertSystem.exe

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="6" result="Passed" total="6" passed="6" failed="0" inconclusive="0" skipped="0" asserts="6" engine-version="3.10.0.0" clr-version="4.0.30319.42000" start-time="2019-08-01 07:09:47Z" end-time="2019-08-01 07:09:48Z" duration="0.426384">
+  <command-line><![CDATA[C:\Users\320053826\source\repos\RulesBasedAlertSystem\packages\NUnit.ConsoleRunner.3.10.0\tools\nunit3-console.exe  RulesBasedAlertSystem\bin\Debug\RulesBasedAlertSystem.exe]]></command-line>
+  <test-suite type="Assembly" id="0-1013" name="RulesBasedAlertSystem.exe" fullname="C:\Users\320053826\source\repos\RulesBasedAlertSystem\RulesBasedAlertSystem\bin\Debug\RulesBasedAlertSystem.exe" runstate="Runnable" testcasecount="6" result="Passed" start-time="2019-08-01 07:09:47Z" end-time="2019-08-01 07:09:48Z" duration="0.030956" total="6" passed="6" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="6">
+    <environment framework-version="3.12.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.17763.0" platform="Win32NT" cwd="C:\Users\320053826\source\repos\RulesBasedAlertSystem" machine-name="INGBTCPIC5NB826" user="320053826" user-domain="CODE1" culture="en-US" uiculture="en-US" os-architecture="x86" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="C:\Users\320053826\source\repos\RulesBasedAlertSystem" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.6.1" />
+      <setting name="ImageRequiresX86" value="True" />
+      <setting name="RunAsX86" value="True" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="NumberOfTestWorkers" value="12" />
+    </settings>
+    <properties>
+      <property name="_PID" value="18336" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <test-suite type="TestSuite" id="0-1014" name="RulesBasedAlertSystem" fullname="RulesBasedAlertSystem" runstate="Runnable" testcasecount="6" result="Passed" start-time="2019-08-01 07:09:47Z" end-time="2019-08-01 07:09:48Z" duration="0.020357" total="6" passed="6" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="6">
+      <test-suite type="TestFixture" id="0-1000" name="Test" fullname="RulesBasedAlertSystem.Test" classname="RulesBasedAlertSystem.Test" runstate="Runnable" testcasecount="6" result="Passed" start-time="2019-08-01 07:09:47Z" end-time="2019-08-01 07:09:48Z" duration="0.018649" total="6" passed="6" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="6">
+        <test-suite type="ParameterizedMethod" id="0-1008" name="PRTC0" fullname="RulesBasedAlertSystem.Test.PRTC0" classname="RulesBasedAlertSystem.Test" runstate="Runnable" testcasecount="1" result="Passed" start-time="2019-08-01 07:09:47Z" end-time="2019-08-01 07:09:48Z" duration="0.015091" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+          <test-case id="0-1007" name="PRTC0(0)" fullname="RulesBasedAlertSystem.Test.PRTC0(0)" methodname="PRTC0" classname="RulesBasedAlertSystem.Test" runstate="Runnable" seed="1554407614" result="Passed" start-time="2019-08-01 07:09:47Z" end-time="2019-08-01 07:09:48Z" duration="0.012280" asserts="1" />
+        </test-suite>
+        <test-suite type="ParameterizedMethod" id="0-1006" name="PRTC1" fullname="RulesBasedAlertSystem.Test.PRTC1" classname="RulesBasedAlertSystem.Test" runstate="Runnable" testcasecount="1" result="Passed" start-time="2019-08-01 07:09:48Z" end-time="2019-08-01 07:09:48Z" duration="0.000195" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+          <test-case id="0-1005" name="PRTC1(0)" fullname="RulesBasedAlertSystem.Test.PRTC1(0)" methodname="PRTC1" classname="RulesBasedAlertSystem.Test" runstate="Runnable" seed="707540011" result="Passed" start-time="2019-08-01 07:09:48Z" end-time="2019-08-01 07:09:48Z" duration="0.000144" asserts="1" />
+        </test-suite>
+        <test-suite type="ParameterizedMethod" id="0-1002" name="SPO2TC0" fullname="RulesBasedAlertSystem.Test.SPO2TC0" classname="RulesBasedAlertSystem.Test" runstate="Runnable" testcasecount="1" result="Passed" start-time="2019-08-01 07:09:48Z" end-time="2019-08-01 07:09:48Z" duration="0.000132" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+          <test-case id="0-1001" name="SPO2TC0(0)" fullname="RulesBasedAlertSystem.Test.SPO2TC0(0)" methodname="SPO2TC0" classname="RulesBasedAlertSystem.Test" runstate="Runnable" seed="1758952814" result="Passed" start-time="2019-08-01 07:09:48Z" end-time="2019-08-01 07:09:48Z" duration="0.000113" asserts="1" />
+        </test-suite>
+        <test-suite type="ParameterizedMethod" id="0-1004" name="SPO2TC1" fullname="RulesBasedAlertSystem.Test.SPO2TC1" classname="RulesBasedAlertSystem.Test" runstate="Runnable" testcasecount="1" result="Passed" start-time="2019-08-01 07:09:48Z" end-time="2019-08-01 07:09:48Z" duration="0.000109" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+          <test-case id="0-1003" name="SPO2TC1(0)" fullname="RulesBasedAlertSystem.Test.SPO2TC1(0)" methodname="SPO2TC1" classname="RulesBasedAlertSystem.Test" runstate="Runnable" seed="1159436013" result="Passed" start-time="2019-08-01 07:09:48Z" end-time="2019-08-01 07:09:48Z" duration="0.000092" asserts="1" />
+        </test-suite>
+        <test-suite type="ParameterizedMethod" id="0-1010" name="TempTC0" fullname="RulesBasedAlertSystem.Test.TempTC0" classname="RulesBasedAlertSystem.Test" runstate="Runnable" testcasecount="1" result="Passed" start-time="2019-08-01 07:09:48Z" end-time="2019-08-01 07:09:48Z" duration="0.000108" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+          <test-case id="0-1009" name="TempTC0(0)" fullname="RulesBasedAlertSystem.Test.TempTC0(0)" methodname="TempTC0" classname="RulesBasedAlertSystem.Test" runstate="Runnable" seed="1652632933" result="Passed" start-time="2019-08-01 07:09:48Z" end-time="2019-08-01 07:09:48Z" duration="0.000092" asserts="1" />
+        </test-suite>
+        <test-suite type="ParameterizedMethod" id="0-1012" name="TempTC1" fullname="RulesBasedAlertSystem.Test.TempTC1" classname="RulesBasedAlertSystem.Test" runstate="Runnable" testcasecount="1" result="Passed" start-time="2019-08-01 07:09:48Z" end-time="2019-08-01 07:09:48Z" duration="0.000094" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+          <test-case id="0-1011" name="TempTC1(0)" fullname="RulesBasedAlertSystem.Test.TempTC1(0)" methodname="TempTC1" classname="RulesBasedAlertSystem.Test" runstate="Runnable" seed="1928478344" result="Passed" start-time="2019-08-01 07:09:48Z" end-time="2019-08-01 07:09:48Z" duration="0.000078" asserts="1" />
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

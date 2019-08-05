@@ -1,0 +1,10 @@
+[{"patient id":"TRJIW432","SPO2":-97,"temperature":96.5
+{"patient id":"TRJIW432","SPO2":-41,"pulseRate":200,"temperature":94.7},
+{"patient id":"TRJIW432","SPO2":31,"pulseRate":20,"temperature":98.4},
+{"patient id":"TRJIW432","SPO2":99,"pulseRate":300,"temperature":98.3},
+{"patient id":"TRJIW432","SPO2":65,"pulseRate":209,"temperature":abc},
+{"patient id":"TRJIW432","SPO2":55,"pulseRate":248,"temperature":98.7},
+{"patient id":"TRJIW432","SPO2":78,"pulseRate":197,"temperature":96},
+{"patient id":"TRJIW432","SPO2":67,"pulseRate":61,"temperature":97.5},
+{"patient id":"TRJIW432","SPO2":97,"pulseRate":65,"temperature":98.4},
+{"patient id":"TRJIW432","SPO2":58,"pulseRate":201,"temperature":100}
